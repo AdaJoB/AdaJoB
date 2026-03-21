@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Otto 
 
-<!--
-**AdaJoB/AdaJoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a student at Western Illinois University graduating with my BS of Computer Science in May of 2026. I will be attending graduate school to obtain my Masters in Computer Science the Fall of 2026.
 
-Here are some ideas to get you started:
+## Skills
+ - Python (Flask)
+ - Java
+ - Javascript
+ - CSS/HTML
+ - Bash
+ - Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working Towards
+ - Java (Spring Boot)
+ - Rust 
+ - MySQL
+
+## Projects
+ - [Portfolio](https://github.com/AdaJoB/Portfolio)
+
+## Interests
+ - Fullstack web development
+ - NES ROM Manipulation
