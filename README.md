@@ -1,4 +1,4 @@
-## Hi, I'm Otto 
+## Hi, I'm Ada 
 
 I'm currently a student at Western Illinois University graduating with my BS of Computer Science in May of 2026. I will be attending graduate school to obtain my Masters in Computer Science the Fall of 2026.
 
